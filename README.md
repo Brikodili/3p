@@ -1,7 +1,7 @@
 3p
 ==
 
-Public, Protected, Private
+Playground for `Public`, `Protected` and `Private` methods.
 
 How to use?
 ==
